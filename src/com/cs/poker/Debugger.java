@@ -6,5 +6,8 @@ public class Debugger
 	{
 		Card c = new Card(1,3);
 		System.out.println(c);
+		
+		Deck d = new Deck();
+		d.printDeck();
 	}
 }
