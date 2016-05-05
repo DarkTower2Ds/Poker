@@ -1,4 +1,4 @@
-package com.sd.poker;
+package com.cs.poker;
 
 import com.cs.Reference;
 
