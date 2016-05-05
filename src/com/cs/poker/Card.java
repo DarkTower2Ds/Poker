@@ -2,7 +2,7 @@ package com.cs.poker;
 
 import com.cs.Reference;
 
-public class Card
+public class Card //implements Comparable?
 {
 	private int value, suit;
 	/**
